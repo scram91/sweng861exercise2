@@ -1,4 +1,13 @@
 Changed all text in this file
 
+<<<<<<< HEAD
 This is the fixed file
 This code is valid
+=======
+new line
+new line
+new line
+new line
+new line
+new line
+>>>>>>> task2
